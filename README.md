@@ -24,6 +24,7 @@
   ![SQLite DB](https://img.shields.io/badge/-SQLite-blue)
 
 <h2 align="left">💻 Frameworks & Libraries:</h2>
+
   ![Kotlin Coroutines](https://img.shields.io/badge/-Kotlin%20Coroutines-orange)
   ![Jetpack Navigation](https://img.shields.io/badge/-Jetpack%20Navigation-green)
   ![Dagger-Hilt](https://img.shields.io/badge/-Dagger%20--%20Hilt-yellowgreen)
