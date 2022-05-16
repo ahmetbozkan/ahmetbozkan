@@ -48,4 +48,6 @@
 
 <h2 align="left">Contact:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AhmetBozkan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/ahmet-bozkan-295162187/) [![Instagram Badge](https://img.shields.io/badge/-@ahmetbzkk_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/ahmetbzkk_/)](https://www.instagram.com/ahmetbzkk_/)
+[![Linkedin Badge](https://img.shields.io/badge/-AhmetBozkan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/ahmet-bozkan-295162187/)
+[![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:ahmetbozkan@outlook.com)](ahmetbozkan@outlook.com)
+[![Instagram Badge](https://img.shields.io/badge/-@ahmetbzkk_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/ahmetbzkk_/)](https://www.instagram.com/ahmetbzkk_/)
