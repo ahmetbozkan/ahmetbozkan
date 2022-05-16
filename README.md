@@ -18,5 +18,4 @@
 
 <h2 align="left">Contact:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) (https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/ahmetbzkk_/)](https://www.instagram.com/ahmetbzkk_/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://www.linkedin.com/in/ahmet-bozkan-295162187/)](https://www.linkedin.com/in/ahmet-bozkan-295162187/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ahmet Bozkan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/ahmet-bozkan-295162187/) [![Instagram Badge](https://img.shields.io/badge/-@ahmetbzkk_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/ahmetbzkk_/)](https://www.instagram.com/ahmetbzkk_/)
